@@ -1,0 +1,22 @@
+{
+  "name": "jkj",
+  "version": "1.0.0",
+  "description": "krabbys website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpearsR/KabbysSeafood.git"
+  },
+  "author": "Ryan Spears",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpearsR/KabbysSeafood/issues"
+  },
+  "homepage": "https://github.com/SpearsR/KabbysSeafood",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
